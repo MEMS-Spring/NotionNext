@@ -55,7 +55,7 @@ const BLOG = {
   CONTACT_EMAIL: 'mems_spring@126.com',
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
-  CONTACT_GITHUB: 'https://github.com/tangly1024',
+  CONTACT_GITHUB: 'https://github.com/MEMS-Spring',
   CONTACT_TELEGRAM: '',
 
   // 鼠标点击烟花特效
