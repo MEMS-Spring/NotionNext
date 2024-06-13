@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'wuyc', // 作者
   BIO: '一个普通的干饭人🍚', // 作者简介
-  LINK: 'https://spring.yaojianye.cn/', // 网站地址
+  LINK: 'https://0603online.top/', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '5fa43dbdda0b4f0dad72966ead870f3e', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
